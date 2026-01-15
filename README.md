@@ -1,6 +1,6 @@
 # GitHub Readme Stats (Simplified)
 
-This is a simplified version of the [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) project, keeping only the essential features:
+This is a simplified version of the [github-readme-stats](https://github.com/medgougriz/medgougriz-stats) project, keeping only the essential features:
 
 - GitHub Stats Card
 - Top Languages Card
