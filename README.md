@@ -11,7 +11,7 @@ This is a simplified version of the [github-readme-stats](https://github.com/med
 Push this repository to your GitHub account and connect it to Vercel.
 
 ### 2. Configure Environment Variables
-In your Vercel project settings, add a `PERSONAL_ACCESS_TOKEN` environment variable. You can generate one from your [GitHub Settings](https://github.com/settings/tokens).
+In your Vercel project settings, add a `PAT_1` environment variable. You can generate one from your [GitHub Settings](https://github.com/settings/tokens).
 
 ### 3. Add to your README
 Replace `YOUR_USERNAME` with your GitHub username.
